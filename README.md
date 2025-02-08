@@ -6,4 +6,4 @@ Allow to put subtitles in sync with the original source
 ```shell
   go run main.go -p /path/to/srt
 ```
-3. The result file will be found in the 'sync_subs' directory
+3. The result file will be found in the `sync_subs` directory
